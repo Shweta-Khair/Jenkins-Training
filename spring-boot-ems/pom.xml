@@ -24,7 +24,6 @@
 		<sonar.coverage.jacoco.xmlReportPaths>spring-boot-ems/target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 		<sonar.login>a18d23a776d5f91121eab9f89eb84a1c2f33280c</sonar.login>
 		<sonar.host.url>http://172.27.59.159:9000</sonar.host.url>
-		<sonar.coverage.exclusions>**/angular/**/*.*</sonar.coverage.exclusions>
 	</properties>
 
 	<dependencies>
