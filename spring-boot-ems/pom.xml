@@ -19,7 +19,7 @@
 		<sonar.projectVersion>1.0</sonar.projectVersion>
 		<sonar.projectName>Jenkins-Training-Jan2024</sonar.projectName>
 		<sonar.projectKey>Jenkins-Training-Jan2024:master</sonar.projectKey>
-		<sonar.sources>spring-boot-ems/src,angular/src/app</sonar.sources>
+		<sonar.sources>src</sonar.sources>
 		<sonar.java.binaries>spring-boot-ems/target</sonar.java.binaries>
 		<sonar.coverage.jacoco.xmlReportPaths>spring-boot-ems/target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 		<sonar.login>a18d23a776d5f91121eab9f89eb84a1c2f33280c</sonar.login>
